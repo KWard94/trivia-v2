@@ -1,12 +1,14 @@
-# Getting Started with Create React App
+# This is a React project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created to practice React project building from the ground up.
 
-## Available Scripts
+## This is a trivia game
 
-In the project directory, you can run:
+This game will employ a third party API to populate questions and answers. A score will be tracked and incremented on correct responses.
 
-### `npm start`
+### This will be mobile responsive and use the Bootstrap CSS library
+
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
