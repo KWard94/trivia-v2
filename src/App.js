@@ -12,15 +12,6 @@ function App() {
         <Route path="*" element={<NoPageFound />} />
       </Routes>
     </div>
-
-    // example routing below
-    //      <Routes>
-    //     <Route path="/" element={<Layout />}>
-    //     <Route index element={<Home />} />
-    //     <Route path="blogs" element={<Blogs />} />
-    //     <Route path="contact" element={<Contact />} />
-    //   </Route>
-    // </Routes>
   );
 }
 

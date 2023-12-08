@@ -5,7 +5,7 @@ import "./noPageFound.scss";
 
 function NoPageFound() {
   return (
-    <div className="main_content container-fluid">
+    <div className="main_page_not_found container-fluid">
       <div className=" content_container">
         <div className="container">
           <h1 className="display-4">Page Not Found</h1>
