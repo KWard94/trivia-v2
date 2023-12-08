@@ -9,4 +9,19 @@
 
   background-color: $mainBG;
   color: $mainText;
+
+  .content_container {
+    background-color: $secondaryBG;
+    height: 50%;
+    width: 50%;
+    border-radius: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .shrug {
+    width: 30%;
+  }
 }
